@@ -3,3 +3,6 @@
 8월 03, 2020 12:51:38.28 [13936:6496:0803/125138.277:ERROR:socket_stream.cc(219)] Closing stream with result -2
 8월 03, 2020 13:23:38.95 [13936:6496:0803/132338.955:ERROR:socket_stream.cc(219)] Closing stream with result -2
 8월 03, 2020 14:01:55.62 [13936:6496:0803/140155.626:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+8월 13, 2020 22:35:31.26 NEW SESSION
+8월 13, 2020 22:35:31.26 [13808:22116:0813/223531.257:ERROR:socket_stream.cc(219)] Closing stream with result -2
